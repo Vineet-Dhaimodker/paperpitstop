@@ -1,8 +1,7 @@
 # 📚 Paper Pitstop 
 ### Your Academic Pit Crew for Research Papers
 
-
-<img src="D:\Vineet\PROJECTS\Github\paperpitstop\app\pitstop.gif" alt="Research papers zooming through a pit stop" />
+![Research papers zooming through a pit stop](./app/pitstop.gif)
 
 *Because reading research papers shouldn't feel like a marathon* 🏃‍♂️💨
 
@@ -81,7 +80,7 @@ MIT License - Because sharing is caring!
 
 ---
 
-<img src="D:\Vineet\PROJECTS\Github\paperpitstop\app\f1.gif" alt="Racing Victory" />
+![Racing Victory](./app/f1.gif)
 
 Made with 💜 by researchers, for researchers
 
